@@ -31,7 +31,6 @@
             <li><a href="#" class="icon-flickr tooltip" title="flickr"></a></li>
             <li><a href="#" class="icon-msn tooltip" title="msn"></a></li>
             <li><a href="#" class="icon-stumbleupon tooltip" title="stumbleupon"></a></li>
-	    <li><a href="collapproject.php" class="icon-stumbleupon tooltip" title="Collaborate"></a></li>
           </ul>
         </div>
         <div class="tweets">
